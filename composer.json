@@ -3,7 +3,7 @@
     "description": "TrioMobil API Library",
     "autoload": {
         "psr-4": {
-            "YG\\Triomobil\\": "src/"
+            "YG\\TrioMobil\\": "src/"
         }
     },
     "authors": [
