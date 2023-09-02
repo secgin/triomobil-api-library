@@ -1,0 +1,15 @@
+{
+    "name": "secgin/triomobil-api-library",
+    "description": "TrioMobil API Library",
+    "autoload": {
+        "psr-4": {
+            "Secgin\\TriomobilApiLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "secgin"
+        }
+    ],
+    "require": {}
+}
